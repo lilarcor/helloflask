@@ -115,3 +115,7 @@ docs/_build/
 # Upload file
 demos/form/uploads/*
 !demos/form/uploads/.gitkeep
+
+
+# vscode settings
+.vscode/
